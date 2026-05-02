@@ -6,6 +6,8 @@
 - 🚀 **Vai trò:** giao dịch viên từ discord
 - 💻 **Kỹ năng:** setup sever, buôn bán all game 
 - 🎯 **Dịch vụ:** Discord Nitro, Blox Fruit, Server Decor
-### 🔗 Liên hệ
-- **Discord:** `boladatgg`
-- **Box Discord:** [The Shadow Market]
+## 🔗 Liên hệ
+- 💬 **Discord:** `boladatgg`
+- 🛒 **Store:** [The Shadow Market](https://discord.gg/Rs97EdAw7X)
+## 📊 Thống kê GitHub
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=datmc1105-netizen&show_icons=true&theme=tokyonight)
